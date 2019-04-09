@@ -7,6 +7,8 @@ This image is based on continuumio/miniconda3, and installed build tools (like g
 
 Note: The size of this image is a little bigger.
 
+[![](https://images.microbadger.com/badges/image/wqshen/geoconda3.svg)](http://microbadger.com/images/wqshen/geoconda3 "Get your own image badge on microbadger.com")
+
 ## Usage Example
 
 ```shell
