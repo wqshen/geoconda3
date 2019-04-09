@@ -15,7 +15,7 @@ Note: The size of this image is a little bigger.
 docker run -it --rm wqshen/geoconda3 /bin/bash
 ```
 
-You can also use data volumn to share directory with your machine and docker container.
+You can also use data volume to share directory with your machine and docker container.
 
 ```shell
 docker run -it --rm -v D:/env_pack:/tmp wqshen/geoconda3 /bin/bash
